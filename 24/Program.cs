@@ -17,4 +17,3 @@ int sumury()
 
 int sum = sumury();
 Console.WriteLine(sum);
-
